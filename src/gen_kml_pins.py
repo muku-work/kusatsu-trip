@@ -38,5 +38,5 @@ gourmet=[
    ("草津温泉バスターミナル","14:00","出発（14:15 集合）"),
  ]),
 ]
-kml("output/maps/草津_グルメ重視_ルート.kml","草津温泉 グルメ重視 散策ルート",gourmet)
+kml("others/maps/草津_グルメ重視_ルート.kml","草津温泉 グルメ重視 散策ルート",gourmet)
 print("done")

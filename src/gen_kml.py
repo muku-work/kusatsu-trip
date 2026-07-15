@@ -70,6 +70,6 @@ gourmet=[
  ]),
 ]
 
-kml("output/maps/草津_街歩き重視_ルート.kml","草津温泉 街歩き重視 散策ルート",machiaruki)
-kml("output/maps/草津_グルメ重視_ルート.kml","草津温泉 グルメ重視 散策ルート",gourmet)
+kml("others/maps/草津_街歩き重視_ルート.kml","草津温泉 街歩き重視 散策ルート",machiaruki)
+kml("others/maps/草津_グルメ重視_ルート.kml","草津温泉 グルメ重視 散策ルート",gourmet)
 print("done")

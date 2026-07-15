@@ -41,7 +41,7 @@ gourmet=[
    ("草津温泉バスターミナル","14:00","出発（14:15 集合）"),
  ]),
 ]
-kml("output/maps/草津_グルメ重視_ルート.kml","草津温泉 グルメ重視 散策ルート",gourmet)
+kml("others/maps/草津_グルメ重視_ルート.kml","草津温泉 グルメ重視 散策ルート",gourmet)
 
 txt = """【草津温泉 グルメ重視プラン】
 
@@ -72,5 +72,5 @@ https://honke-chichiya.com/
 14:00 バスターミナルへ → 14:15 集合
 https://www.kusatsu-onsen.ne.jp/
 """
-open("output/草津_グルメ重視_予定_LINE用.txt","w",encoding="utf-8").write(txt)
+open("others/草津_グルメ重視_予定_LINE用.txt","w",encoding="utf-8").write(txt)
 print("done")

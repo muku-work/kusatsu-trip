@@ -4,18 +4,18 @@
 
 ## 中身
 
-- `output/草津温泉_旅のしおり.html` — スマホで見る旅のしおり本体（ブラウザで開く）。
-- `output/maps/*.kml` — Googleマイマップに読み込む散策ルート。
-- `output/草津_グルメ重視_予定_LINE用.txt` — LINEで共有する用の予定テキスト。
+- `index.html` — スマホで見る旅のしおり本体（ブラウザで開く／GitHub Pages公開対象）。
+- `others/maps/*.kml` — Googleマイマップに読み込む散策ルート。
+- `others/草津_グルメ重視_予定_LINE用.txt` — LINEで共有する用の予定テキスト。
 - `src/*.py` — KML・テキストを生成するスクリプト。
-- `docs/design-prompt.txt` — しおりの元になった企画・掲載情報。
+- `prompts/design-prompt.txt` — しおりの元になった企画・掲載情報。
 
 ## 使い方
 
 しおりを見る:
 
 ```
-open output/草津温泉_旅のしおり.html
+open index.html
 ```
 
 KMLを再生成する（プロジェクトルートで実行）:
@@ -25,7 +25,7 @@ python3 src/gen_split.py     # 1日目/2日目に分けたグルメルート
 python3 src/gen_kml.py       # 街歩き・グルメの各ルート
 ```
 
-Googleマイマップに `output/maps/` のKMLをインポートすると地図で確認できる。
+Googleマイマップに `others/maps/` のKMLをインポートすると地図で確認できる。
 
 ## ドキュメント
 
