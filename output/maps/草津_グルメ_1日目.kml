@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>草津温泉 グルメ重視 1日目（7/18）</name>
+<Placemark><name>12:30 大東館</name><description>荷物を預けて出発</description><Point><coordinates>138.59583,36.62083,0</coordinates></Point></Placemark>
+<Placemark><name>12:45 湯畑</name><description>昼食（湯畑 草庵の草津温泉バーガー）＋食べ歩き</description><Point><coordinates>138.59667,36.62194,0</coordinates></Point></Placemark>
+<Placemark><name>15:00 西の河原露天風呂</name><description>日帰り温泉でクールダウン（800円）</description><Point><coordinates>138.58944,36.62306,0</coordinates></Point></Placemark>
+<Placemark><name>16:00 熱乃湯</name><description>湯もみショー観覧（700円）</description><Point><coordinates>138.59611,36.62222,0</coordinates></Point></Placemark>
+<Placemark><name>16:45 裏草津 地蔵の湯</name><description>裏草津の街歩き・カフェ月の貌でスイーツ</description><Point><coordinates>138.5975,36.62139,0</coordinates></Point></Placemark>
+<Placemark><name>17:45 大東館</name><description>大東館へ戻る → 18:00 夕食</description><Point><coordinates>138.59583,36.62083,0</coordinates></Point></Placemark>
+</Document></kml>

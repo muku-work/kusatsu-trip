@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>草津温泉 街歩き重視 散策ルート</name>
+<Folder><name>1日目（7/18）</name>
+<Placemark><name>1日目-大東館</name><description>荷物を預けて出発</description><Point><coordinates>138.59583,36.62083,0</coordinates></Point></Placemark>
+<Placemark><name>1日目-湯畑</name><description>昼食（居酒屋 水穂の手打ちうどん）</description><Point><coordinates>138.59667,36.62194,0</coordinates></Point></Placemark>
+<Placemark><name>1日目-西の河原通り</name><description>街歩き・食べ歩き</description><Point><coordinates>138.5925,36.62306,0</coordinates></Point></Placemark>
+<Placemark><name>1日目-西の河原露天風呂</name><description>日帰り温泉（大露天風呂・800円）</description><Point><coordinates>138.58944,36.62306,0</coordinates></Point></Placemark>
+<Placemark><name>1日目-裏草津 地蔵の湯</name><description>裏草津の街歩き（足湯・顔湯・目洗い地蔵）</description><Point><coordinates>138.5975,36.62139,0</coordinates></Point></Placemark>
+<Placemark><name>1日目-白旗の湯</name><description>共同浴場めぐり（無料）</description><Point><coordinates>138.59639,36.62222,0</coordinates></Point></Placemark>
+<Placemark><name>1日目-大東館</name><description>夕食・宿泊</description><Point><coordinates>138.59583,36.62083,0</coordinates></Point></Placemark>
+<Placemark><name>1日目 ルート</name><Style><LineStyle><color>ff2dc0ff</color><width>4</width></LineStyle></Style><LineString><tessellate>1</tessellate><coordinates>138.59583,36.62083,0 138.59667,36.62194,0 138.5925,36.62306,0 138.58944,36.62306,0 138.5975,36.62139,0 138.59639,36.62222,0 138.59583,36.62083,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>2日目（7/19）</name>
+<Placemark><name>2日目-大東館</name><description>チェックアウト</description><Point><coordinates>138.59583,36.62083,0</coordinates></Point></Placemark>
+<Placemark><name>2日目-西の河原通り</name><description>朝の街歩き</description><Point><coordinates>138.5925,36.62306,0</coordinates></Point></Placemark>
+<Placemark><name>2日目-裏草津 地蔵の湯</name><description>共同浴場でひと風呂・裏草津散策（無料）</description><Point><coordinates>138.5975,36.62139,0</coordinates></Point></Placemark>
+<Placemark><name>2日目-湯畑</name><description>昼食＆お土産購入（本家ちちや）</description><Point><coordinates>138.59667,36.62194,0</coordinates></Point></Placemark>
+<Placemark><name>2日目-草津温泉バスターミナル</name><description>14:15 集合</description><Point><coordinates>138.595,36.62472,0</coordinates></Point></Placemark>
+<Placemark><name>2日目 ルート</name><Style><LineStyle><color>ffe6944b</color><width>4</width></LineStyle></Style><LineString><tessellate>1</tessellate><coordinates>138.59583,36.62083,0 138.5925,36.62306,0 138.5975,36.62139,0 138.59667,36.62194,0 138.595,36.62472,0</coordinates></LineString></Placemark>
+</Folder>
+</Document></kml>
